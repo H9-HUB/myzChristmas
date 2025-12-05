@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Magic Christmas Tree",
+  "description": "A real-time 3D particle system controlled by hand gestures. Open your hand to explode the tree into stardust, close it to reform and rotate the tree.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
